@@ -1,0 +1,21 @@
+﻿<h2>Washers</h2>
+
+<input id="washerName" placeholder="Washer name" />
+<button onclick="addWasher()">Add Washer</button>
+
+<p id="washerMsg"></p>
+
+<script>
+    async function addWasher() {
+
+        let name = document.getElementById('washerName').value;
+
+        let response = await fetch(`/api/WashersApi/add?name=${name}`, {
+            method: 'POST'
+        });
+
+        let data = await response.json();
+
+        document.getElementById("washerMsg").innerText = data.message;
+    }
+</script>

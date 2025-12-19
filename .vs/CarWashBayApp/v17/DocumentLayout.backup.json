@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\CarWash\\CarWashBayApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\migrations\\20251219063520_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:migrations\\20251219063520_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\carwashbayapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:carwashbayapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\services\\carwashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:services\\carwashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\controllers\\washerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:controllers\\washerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\controllers\\api\\washerapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:controllers\\api\\washerapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\models\\washer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:models\\washer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\views\\washers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:views\\washers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\controllers\\carscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:controllers\\carscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\controllers\\api\\carsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:controllers\\api\\carsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|b:\\carwash\\carwashbayapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DECB5F-90F8-4311-8E43-8A7590091C06}|CarWashBayApp.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 149,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251219063520_Initial Migration.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Migrations\\20251219063520_Initial Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251219063520_Initial Migration.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Migrations\\20251219063520_Initial Migration.cs",
+              "RelativeToolTip": "Migrations\\20251219063520_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:35:21.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T14:04:19.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T08:52:35.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-10T16:15:41.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:06:30.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarsAPIcontroller.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Controllers\\API\\CarsAPIcontroller.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\CarsAPIcontroller.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Controllers\\API\\CarsAPIcontroller.cs",
+              "RelativeToolTip": "Controllers\\API\\CarsAPIcontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T12:30:34.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WasherAPIcontroller.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Controllers\\API\\WasherAPIcontroller.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\WasherAPIcontroller.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Controllers\\API\\WasherAPIcontroller.cs",
+              "RelativeToolTip": "Controllers\\API\\WasherAPIcontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T12:26:05.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Views\\Cars\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cars\\Create.cshtml",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Views\\Cars\\Create.cshtml",
+              "RelativeToolTip": "Views\\Cars\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T12:09:50.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Views\\Washers\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Washers\\index.cshtml",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Views\\Washers\\index.cshtml",
+              "RelativeToolTip": "Views\\Washers\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T12:06:48.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarsControllers.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Controllers\\CarsControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarsControllers.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Controllers\\CarsControllers.cs",
+              "RelativeToolTip": "Controllers\\CarsControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:53:48.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WashersController.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Controllers\\WashersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WashersController.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Controllers\\WashersController.cs",
+              "RelativeToolTip": "Controllers\\WashersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:48:41.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:30:38.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarWashService.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Services\\CarWashService.cs",
+              "RelativeDocumentMoniker": "Services\\CarWashService.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Services\\CarWashService.cs",
+              "RelativeToolTip": "Services\\CarWashService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:24:46.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarWashBayApp.csproj",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\CarWashBayApp.csproj",
+              "RelativeDocumentMoniker": "CarWashBayApp.csproj",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\CarWashBayApp.csproj",
+              "RelativeToolTip": "CarWashBayApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-08T11:23:08.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Washer.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Models\\Washer.cs",
+              "RelativeDocumentMoniker": "Models\\Washer.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Models\\Washer.cs",
+              "RelativeToolTip": "Models\\Washer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:05:22.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Car.cs",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:04:24.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\CarWash\\CarWashBayApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "B:\\CarWash\\CarWashBayApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T10:58:37.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

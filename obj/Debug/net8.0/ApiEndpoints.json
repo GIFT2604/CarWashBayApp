@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "CarWashBay.Web.Controllers.Api.CarsApiController",
+    "Method": "RegisterCar",
+    "RelativePath": "api/CarsApi/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "plate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarWashBay.Web.Controllers.Api.WashersApiController",
+    "Method": "AddWasher",
+    "RelativePath": "api/WashersApi/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarWashBay.Web.Controllers.Api.WashersApiController",
+    "Method": "GetWashers",
+    "RelativePath": "api/WashersApi/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

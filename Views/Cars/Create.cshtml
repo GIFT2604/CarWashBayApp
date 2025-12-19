@@ -1,0 +1,30 @@
+﻿<h2>Register Car</h2>
+
+<input id="plate" placeholder="Plate Number" />
+
+<select id="type">
+    <option>Truck</option>
+    <option>MiniVan</option>
+    <option>Saloon</option>
+    <option>MotorBike</option>
+</select>
+
+<button onclick="registerCar()">Register</button>
+
+<p id="result"></p>
+
+<script>
+    async function registerCar() {
+
+        let plate = document.getElementById('plate').value;
+        let type = document.getElementById('type').value;
+
+        let response = await fetch(`/api/CarsApi/register?plate=${plate}&type=${type}`, {
+            method: 'POST'
+        });
+
+        let data = await response.json();
+
+        document.getElementById("result").innerText = data.message;
+    }
+</script>
